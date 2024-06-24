@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 ## Setting Up the Node.js Server
    cd server
    npm install
-
+   rename .env.txt to .env
    node stakingrewards.js
 
    This will run using port 3001
